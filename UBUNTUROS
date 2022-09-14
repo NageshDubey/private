@@ -1,0 +1,6 @@
+Ubuntu Download 
+https://releases.ubuntu.com/18.04/ubuntu-18.04.6-live-server-amd64.iso
+Create a virtual machine in virtual box.
+mount the ISO and install the ubuntu server.
+login the terminal
+run sudo apt-get install openssh server
